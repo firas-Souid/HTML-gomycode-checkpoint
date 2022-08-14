@@ -1,0 +1,37 @@
+<html>
+<body>
+
+<h1>Home</h1>
+<div>
+ <h1>‏‏‎ ‎</h1>
+ <h3>About</h3>
+  <form>
+    <label for="fname">write about yourself </label><br>
+    <input type="text" id="fname" name="fname" value="type here"><br>
+</form>
+</div>
+<div>
+<h3>Work</h3>
+<form>
+    <label for="fname">provide info about your work </label><br>
+    <input type="text" id="fname" name="fname" value="type here"><br>
+</form>
+</div>
+<div>
+<h3>Resume</h3>
+<form>
+    <label for="fname">Write your resume </label><br>
+    <input type="text" id="fname" name="fname" value="type here"><br>
+</form>
+</div>
+<div>
+    <h3>Contact</h3>
+    <form>
+        <label for="fname">provide your contacts </label><br>
+        <input type="text" id="fname" name="fname" value="email"><br>
+        <input type="text" id="fname" name="fname" value="phone"><br>
+        <input type="text" id="fname" name="fname" value="adress"><br>
+    </form>
+</div>
+</body>
+</html>
